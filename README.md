@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/246005157.svg)](https://zenodo.org/badge/latestdoi/246005157)
+
 # A general model for household-structured population dynamics: presenting the first component for a model of Indus Civilisation settlements in Haryana, NW India
 Presentation for the International Network - Historical and osteoarchaeological Past Populations Exploration (IN-HOPPE) workshop in Nice (5-6 December 2019)
 
